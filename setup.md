@@ -8,10 +8,7 @@ Welcome to the project! Follow the steps below to get your development environme
 
 Choose your preferred setup method:
 
-<details>
-<summary>🐳 <b>Option 1: Run with Docker Compose (Recommended & Fastest)</b></summary>
-
-<br>
+## Option 1: Run with Docker Compose
 
 ### Prerequisites
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running.
@@ -41,7 +38,9 @@ To stop all services:
 docker compose down
 ```
 
-## Prerequisites
+## Option 2: Local Setup
+
+### Prerequisites
 
 - Java 21 JDK installed (java -version)
 - Node.js 22+ and npm installed (node -v)
