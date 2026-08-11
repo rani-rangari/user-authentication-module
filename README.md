@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔒 ECE Authentication System - Premium
+# ECE Authentication System - Premium
 
 Made by **[Rani Rangari](https://linkedin.com/in/rani-rangari)** • **[EdgeCaseExchange](https://edgecaseexchange.com)**
 
