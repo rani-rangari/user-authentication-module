@@ -26,10 +26,10 @@ The **ECE Authentication System** provides pre-configured session management, st
 
 ## ✨ Key Specifications & Features
 
-- 🔑 **OAuth2 Identity Sync:** One-click social login via Google and GitHub with account collision detection and profile synchronization.
+- 🔑 **OAuth2 Identity Sync:** One-click social login via Google and GitHub with profile synchronization.
 - ✉️ **Magic Links:** Expiration-managed, single-use passwordless login sent directly to user inboxes.
-- 🛡️ **Cookie Defense & Security:** Cross-origin `SameSite=Strict` HTTP-only cookie layers, JWT authentication, and fingerprint mismatch defenses.
-- 📊 **Security Audit Logging:** Comprehensive application-level event history tracking logins, token requests, and privilege escalation.
+- 🛡️ **Cookie Defense & Security:** Cross-origin `SameSite=Strict` HTTP-only cookie layers.
+- 📊 **Security Audit Logging:** Comprehensive application-level event history tracking logins and token requests.
 - 📱 **Device Control Center:** Real-time active session management with atomic session revocation and a database kill-switch.
 
 ---
