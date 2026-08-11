@@ -1,0 +1,15 @@
+# Environment & Secrets
+.env
+*.local
+
+# IDEs & System
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Build Artifacts
+node_modules/
+target/
+dist/
+build/
