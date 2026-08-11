@@ -4,7 +4,7 @@
 
 Made by **[Rani Rangari](https://linkedin.com/in/rani-rangari)** • **[EdgeCaseExchange](https://edgecaseexchange.com)**
 
-An full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokenized Magic Links**, **Security Auditing**, and a **Device Session Control Center**.
+A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokenized Magic Links**, **Security Auditing**, and a **Device Session Control Center**.
 
 <br/>
 
