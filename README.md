@@ -8,6 +8,8 @@ A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokeni
 
 <br/>
 
+[![Request Early Access](https://img.shields.io/badge/🚀_Request_Early_Access-Click_Here-FF6B6B?style=for-the-badge)](https://www.edgecaseexchange.com/premium-authentication)
+
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -57,6 +59,12 @@ premium-authentication-system/
 
 -🔌 **API Reference**: Import `openapi.json` into Postman or Insomnia to explore the REST API schema.
 
+---
+
 ## 🛡️ License & Credits
 
-Designed & Maintained by **Rani Rangari** • Powered by **EdgeCaseExchange**.
+Designed & Maintained by **Rani Rangari** • Powered by **[EdgeCaseExchange](https://edgecaseexchange.com)**.
+
+> 🚀 **Interested in getting early access or integrating this into your project?**  
+> **[Request Early Access Here](https://www.edgecaseexchange.com/premium-authentication)**
+
