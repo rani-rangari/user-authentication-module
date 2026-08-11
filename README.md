@@ -18,12 +18,6 @@ A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokeni
 
 ---
 
-## 📌 Overview
-
-The **ECE Authentication System** provides pre-configured session management, strict cookie defense routing, and real-time device session control. It seamlessly syncs social identities, issues single-use tokenized magic links, and logs granular application security audits.
-
----
-
 ## ✨ Key Specifications & Features
 
 - 🔑 **OAuth2 Identity Sync:** One-click social login via Google and GitHub with profile synchronization.
@@ -34,30 +28,19 @@ The **ECE Authentication System** provides pre-configured session management, st
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Files & Documentation
 
-For a full breakdown of frontend and backend component directories, check out [folder-setup.md](./folder-setup.md).
-
-```text
-premium-authentication-system/
-├── 📄 .env.example          # Template for required environment variables
-├── 📄 architecture.md       # Technical architectural design & flow diagrams
-├── 🐳 docker-compose.yml    # Multi-container orchestrator (MySQL, Backend, Frontend)
-├── 📄 folder-setup.md       # Full interactive file tree breakdown
-├── 📄 openapi.json          # OpenAPI / Swagger API specification
-├── 🗄️ schema.sql            # Database initialization script
-├── 🚀 setup.md              # Detailed local & Docker setup guide
-```
-
-## 📖 Documentation & Setup Options
-
-- 🛠️ **Detailed Installation Guide**: For running the Spring Boot backend and Vite frontend manually outside of Docker, follow the step-by-step instructions in `setup.md`.
-
-- 📂 **Component Architecture**: See `folder-setup.md` for a clickable layout of every Java class, React component, and endpoint controller.
-
-- 🏛️ **System Design**: Read `architecture.md` for session lifetime details and security flowcharts.
-
--🔌 **API Reference**: Import `openapi.json` into Postman or Insomnia to explore the REST API schema.
+| File | Description | Quick Link |
+| :--- | :--- | :--- |
+| **`README.md`** | Main project overview, features, and quick links | 📄 [View File](./README.md) |
+| **`setup.md`** | Step-by-step setup guide for Docker Compose and local development | 🚀 [View Guide](./setup.md) |
+| **`architecture.md`** | System architecture diagrams, OAuth2 sequence flows, and security design | 🏛️ [View Architecture](./architecture.md) |
+| **`folder-setup.md`** | Interactive clickable directory tree for frontend and backend files | 📂 [View Structure](./folder-setup.md) |
+| **`docker-compose.yml`** | Multi-container Docker configuration for MySQL, Spring Boot, and Nginx | 🐳 [View Docker Spec](./docker-compose.yml) |
+| **`openapi.json`** | OpenAPI / Swagger specification for REST API endpoints | 🔌 [View API Spec](./openapi.json) |
+| **`schema.sql`** | Database table initialization and DDL setup scripts | 🗄️ [View Schema](./schema.sql) |
+| **`.env.example`** | Environment variable template for API keys, DB passwords, and secrets | 🔑 [View Template](./.env.example) |
+| **`.gitignore`** | Git exclusion configuration for secrets, node_modules, and target builds | 🙈 [View Gitignore](./.gitignore) |
 
 ---
 
