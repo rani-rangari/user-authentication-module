@@ -1,14 +1,12 @@
 <div align="center">
 
-# ECE Authentication System - Premium
+# User Authentication Module
 
 Made by **[Rani Rangari](https://linkedin.com/in/rani-rangari)** • **[EdgeCaseExchange](https://edgecaseexchange.com)**
 
 A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokenized Magic Links**, **Security Auditing**, and a **Device Session Control Center**.
 
 <br/>
-
-[![Request Early Access](https://img.shields.io/badge/🚀_Request_Early_Access-Click_Here-FF6B6B?style=for-the-badge)](https://www.edgecaseexchange.com/premium-authentication)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -49,5 +47,5 @@ A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokeni
 Designed & Maintained by **Rani Rangari** • Powered by **[EdgeCaseExchange](https://edgecaseexchange.com)**.
 
 > 🚀 **Interested in getting early access or integrating this into your project?**  
-> **[Request Early Access Here](https://www.edgecaseexchange.com/premium-authentication)**
+> **[Request Early Access Here](https://www.edgecaseexchange.com/user-authentication)**
 
