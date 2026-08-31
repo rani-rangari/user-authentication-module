@@ -4,13 +4,7 @@
 
 Made by **[Rani Rangari](https://linkedin.com/in/rani-rangari)** • **[EdgeCaseExchange](https://edgecaseexchange.com)**
 
-A full-stack authentication kit featuring **OAuth2 (Google & GitHub)**, **Tokenized Magic Links**, **Security Auditing**, and a **Device Session Control Center**.
-
-<br/>
-
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+A full-stack authentication kit built with **React**, **Spring Boot**, and **MySQL**.
 
 </div>
 
