@@ -1,16 +1,20 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Premium Authentication Starter Kit API",
-    "description": "Production-grade authentication, hardware device tracking, passwordless magic links, and audit logging API.",
+    "title": "User Authentication Starter Kit API",
+    "description": "Authentication flows with session management, OAuth integrations & real-time security audit logging API.",
     "version": "1.0.0"
   },
-  "servers": [
-    {
-      "url": "http://localhost:8080",
-      "description": "Local Development Server"
-    }
-  ],
+ "servers": [
+  {
+    "url": "https://www.edgecaseexchange.com",
+    "description": "Production Server"
+  },
+  {
+    "url": "http://localhost:8080",
+    "description": "Local Development Server"
+  }
+],
   "tags": [
     { "name": "Authentication & Identity", "description": "Local signup, login, session refresh, and profile management" },
     { "name": "Passwordless Magic Links", "description": "Token generation and passwordless verification" },
