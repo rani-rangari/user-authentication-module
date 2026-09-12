@@ -1,5 +1,5 @@
 -- =============================================================================
--- Premium Authentication Starter Kit - Database Schema
+-- User Authentication Starter Kit - Database Schema
 -- Package: com.edgecaseexchange.backend.auth.model
 -- Database Target: MySQL 8.0+
 -- =============================================================================
