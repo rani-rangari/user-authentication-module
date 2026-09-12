@@ -1,6 +1,6 @@
 # 🏛️ System Architecture & Security Design
 
-This document outlines the technical architecture, security protocols, and system flows of the **ECE Authentication System - Premium**.
+This document outlines the technical architecture, security protocols, and system flows for **User Authentication**.
 
 ---
 
