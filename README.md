@@ -40,6 +40,6 @@ A full-stack authentication kit built with **React**, **Spring Boot**, and **MyS
 
 Designed & Maintained by **Rani Rangari** • Powered by **[EdgeCaseExchange](https://edgecaseexchange.com)**.
 
-> 🚀 **Interested in getting early access or integrating this into your project?**  
-> **[Request Early Access Here](https://www.edgecaseexchange.com/user-authentication)**
+> 🚀 **Ready to deploy or integrate this into your project?**  
+> **[Get Instant Access Here](https://www.edgecaseexchange.com/user-authentication)**
 
